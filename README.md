@@ -53,12 +53,7 @@
       <a href="http://www.github.com/prashantrai-30">
         <img src="https://gh-readme-profile.vercel.app/api?username=prashantrai-30&theme=github_dark&hide_stroke=true&hide_border=true" alt="prashantrai-30's GitHub stats" />
       </a>
-    </td>
-    <td>
-      <a href="http://www.github.com/prashantrai-30">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantrai-30&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-      </a>
-    </td>
+	</td>
   </tr>
 </table>
 
