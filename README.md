@@ -1,62 +1,72 @@
-# Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height = 30px>
+![Profile Views](https://komarev.com/ghpvc/?username=prashantrai-30&color=blue)
 
-<div size='20px'> Hi! I'm Prashant Rai, a second year student currently pursuing my bachelors degree in computer science. 
- :smile: 
-</div>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey there, I'm Prashant!  
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="35"/>
+</h1>
+
+🚀 Full-Stack Engineer | Backend Enthusiast | Innovates at the intersection of AI integrations, system design, and real-time features.
+💡 Exploring **Node.js, ReactJs, NextJs, NestJs, TypeScript, C/C++ and System Design**  
+
 
 [![An image of @prashantrai30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prashantrai30)](https://holopin.io/@prashantrai30)
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px height = 22px> </h2>
-<a href= https://github.com/prashantrai-30?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/prashantrai-30?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/prashantrai-30?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/prashantrai-30?tab=repositories&q=&type=&language=tailwindcss&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/prashantrai-30?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/prashantrai-30?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/prashantrai-30?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/prashantrai-30?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<!--END_SECTION:waka-->
 
-<br>
-<br>
-<div align="left">
-  
-[![ToolJet Template Trailblazer](https://logo-badges.tooljet.com/Template-Template-Badge.svg)](https://github.com/orgs/ToolJet/projects/16/views/2)
+### Languages & Tools 🛠
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)&nbsp;
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)](#)&nbsp;
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
-</div>
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+	[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantrai-30&show_icons=true&locale=en&theme=radical" alt="prashantrai-30" /></p>
 
-<br>
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantrai-30&" alt="prashantrai-30" /></p> 
- 
-<br>
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff)](#)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantrai-30&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="250" width="400" /></p>
 
-<div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-</div>
-<p align="center">
-<a href="https://www.linkedin.com/in/prashant-kumar-rai-88425a310/" target="_blank">
-  <img align="center" alt="Prashant Rai | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/prashantrai_30.5/" target="_blank">
-  <img align="center" alt="Prashant Rai | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:prashantkumar2488@gmail.com" >
-  <img align="center" alt="Prashant Rai | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-</p>
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/prashantrai-30/count.svg" />  
-</p>
+
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)&nbsp;
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+
+
+### 📈 GitHub Stats
+
+[![GitHub User's stars](https://img.shields.io/github/stars/prashantrai-30?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/prashantrai-30?tab=repositories&q=&type=public&language=&sort=stargazers)
+
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/prashantrai-30">
+        <img src="https://gh-readme-profile.vercel.app/api?username=prashantrai-30&theme=github_dark&hide_stroke=true&hide_border=true" alt="prashantrai-30's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="http://www.github.com/prashantrai-30">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantrai-30&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+### 🌐 Connect With Me
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/prashantrai-30)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/prashantkumarrai30)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/prashantrai_30/)
